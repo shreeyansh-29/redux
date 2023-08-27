@@ -1,0 +1,50 @@
+What is Redux?
+Redux is a predictable state container in js apps.
+
+Breaking above statement
+It is for js apps.
+It is a state container.
+It is predictable.
+
+Redux is for JS apps.
+Redux is not tied to React.
+Can be used with react, angular, vue or even vanilla Js.
+Redux is a lib for Js apps.
+
+Redux is a state container.
+Redux stores the state of your application.
+State of an app is the state shared by all the individual components of that app.
+Redux will store and manage the app state.
+
+Redux is Predictable.
+The state of the app can be change.
+In redux, a pattern is enforced to ensure all state transitions are explicit and can be tracked.
+The changes to your app's state become predictable.
+
+why to use redux?
+1. If you want to manage the global state of your app in a predictable way, redux can help.
+2. The patterns and tools provided by Redux make it easier to understand when, where, why, and how the state in your app
+is being updated, and how your app logic will behave when those changes occur.
+3. Redux guides you towards writing code that is predictable and testable, which helps give you confidence that your app 
+will work as expected.
+
+what is Redux Toolkit?
+Redux toolkit is the official, opinionated, batteries-included toolset for efficient Redux development.
+It is also intended to be the standard way to write Redux logic in your app.
+
+Why Redux-toolkit?
+Redux is great, but it does have a few shortcomings
+1. Configuring redux in an app seems complicated.
+2. In addition to redux, a lot of other packages have to be installed to get redux to do something useful.
+3. Redux requires too much a boiler plate code.
+Redux-toolkit serves as an abstraction over redux. It hides the difficult parts ensuring you have a good developer experience.
+
+What is React-redux?
+React-Redux is the official Redux UI binding library for react.
+Offers couple of functions which helps to connect with react with redux.
+
+When should I use redux?
+1. you have large amounts of app state the are needed in many places in the app.
+2. the app state is updated frequently over time.
+3. the logic to update thatn state may be complex.
+4. the app has a medium or large-sized codebase, and might be worked on by many people.

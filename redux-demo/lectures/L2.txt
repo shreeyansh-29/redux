@@ -1,0 +1,4 @@
+Three Core Concepts in Redux.
+Store - Holds the state of your app.
+Action - An action that describes what happened in the app.
+Reducer - A reducer which handles the action and decides how to update the state.

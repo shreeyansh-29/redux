@@ -1,0 +1,6 @@
+Actions
+The only way to interact with the store.
+Carry some info from app to the store.
+Plain Js Objects
+Have a 'type' property that describes something that happened in the app.
+The 'type' property is typically defined as string constants.
